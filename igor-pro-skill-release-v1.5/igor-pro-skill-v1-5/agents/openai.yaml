@@ -1,4 +1,0 @@
-interface:
-  display_name: "Igor Pro Skill v1.5"
-  short_description: "General-purpose Igor Pro automation for data, figures, exports, and debugging."
-  default_prompt: "Use $igor-pro-skill-v1-5 to automate an Igor Pro workflow from data or commands through editable output and verified export."
